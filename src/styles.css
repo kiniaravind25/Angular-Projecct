@@ -1,0 +1,30 @@
+/* Global Body Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Main Header */
+  h1 {
+    font-size: 36px;
+    color: #333;
+    text-align: center;
+    margin: 20px 0;
+    font-weight: 600;
+    letter-spacing: 1px;
+  }
+  
+  /* Basic Button Styling (Optional for global buttons) */
+  button {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
